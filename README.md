@@ -1,5 +1,5 @@
 #Task 1
-1 Blink one LED with 1 second ON and 1 second OFF using delay().
+1 Blink one LED with 1 second ON and 1 second OFF using delay().\
 2 Turn an LED ON when a push button is pressed and OFF when released.
 3 Toggle an LED state each time a push button is pressed.
 4 Connect three LEDs and create a running light pattern from left to right.
