@@ -3,15 +3,6 @@
 ## Objective
 To toggle the state of an LED each time a push button is pressed.
 
-## Components Required
-- Arduino UNO
-- Push button
-- LED
-- 220Ω resistor
-- 10kΩ resistor
-- Breadboard
-- Jumper wires
-
 ## Description
 In this experiment, the LED changes its state (ON to OFF or OFF to ON)
 each time the push button is pressed. Button press detection is implemented
